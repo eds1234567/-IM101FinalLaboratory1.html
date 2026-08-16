@@ -42,7 +42,7 @@ These services provide virtual computing environments where Linux-based workload
 
 ## Linux Investigation Screenshot
 
-KillerCoda Terminal<img width="1899" height="1016" alt="killercoda-terminal png" src="https://github.com/user-attachments/assets/0ec6677d-5971-4cdf-98de-385563a06929" />
+KillerCoda Terminal<img ![KillerCoda Terminal](https://github.com/user-attachments/assets/0ec6677d-5971-4cdf-98de-385563a06929)
 
 
 ## Mission Summary
