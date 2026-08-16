@@ -10,7 +10,7 @@ Azure operates through a global infrastructure made up of geographic regions and
 
 ## Cloud Management Console
 
-The Microsoft Azure portal is a web-based, unified console used to create, manage, and monitor Azure resources. Users can search for services, create resources, manage subscriptions, monitor resources, and configure cloud environments through a graphical interface. Microsoft describes the Azure portal as a unified console for managing Azure products and resources. :contentReference[oaicite:1]{index=1}
+The Microsoft Azure portal is a web-based, unified console used to create, manage, and monitor Azure resources. Users can search for services, create resources, manage subscriptions, monitor resources, and configure cloud environments through a graphical interface. Microsoft describes the Azure portal as a unified console for managing Azure products and resources.
 
 ## Four Core Services
 
@@ -24,11 +24,11 @@ Azure Blob Storage is an object storage service designed for storing and accessi
 
 ### 3. Azure Virtual Network
 
-Azure Virtual Network allows organizations to create private networks in Azure and connect cloud resources with each other or with on-premises infrastructure. :contentReference[oaicite:2]{index=2}
+Azure Virtual Network allows organizations to create private networks in Azure and connect cloud resources with each other or with on-premises infrastructure.
 
 ### 4. Microsoft Entra ID
 
-Microsoft Entra ID is Microsoft's cloud-based identity and access management service. It can be used to manage identities and support authentication and access to applications and resources. :contentReference[oaicite:3]{index=3}
+Microsoft Entra ID is Microsoft's cloud-based identity and access management service. It can be used to manage identities and support authentication and access to applications and resources.
 
 ## Three Advantages
 
@@ -36,7 +36,7 @@ Microsoft Entra ID is Microsoft's cloud-based identity and access management ser
 
 2. **Global Infrastructure** – Azure provides cloud infrastructure across many geographic regions, helping organizations deploy applications and services for users in different locations.
 
-3. **Wide Range of Cloud Services** – Azure provides services for computing, storage, networking, databases, security, AI, analytics, and application development. :contentReference[oaicite:4]{index=4}
+3. **Wide Range of Cloud Services** – Azure provides services for computing, storage, networking, databases, security, AI, analytics, and application development.
 
 ## Typical Enterprise Use Cases
 
