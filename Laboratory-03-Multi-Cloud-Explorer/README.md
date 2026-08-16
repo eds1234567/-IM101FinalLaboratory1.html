@@ -27,7 +27,8 @@ The terminal output was used to identify:
 * CPU Information
 * Memory
 * Disk Space
-* Based on the terminal output, the following information was collected:
+
+## Based on the terminal output, the following information was collected:
 
 * **Operating System:** Linux ubuntu 6.8.0-136-generic, x86_64, GNU/Linux
 * **CPU Information:** 1 CPU, Intel Xeon E312xx (Sandy Bridge), 2.0GHz, x86_64 architecture
