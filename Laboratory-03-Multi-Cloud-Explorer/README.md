@@ -13,7 +13,7 @@ A KillerCoda Linux Playground was used to investigate the basic information of a
 The following Linux commands were used to collect the required information:
 
 ```bash
-cat /etc/os-release
+uname -a
 lscpu
 free -h
 df -h
